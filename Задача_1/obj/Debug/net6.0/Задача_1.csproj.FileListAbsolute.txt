@@ -1,0 +1,15 @@
+/Users/ilmirkhisamov/Desktop/C# GeekBrains/homework_3/Задача_1/bin/Debug/net6.0/Задача_1
+/Users/ilmirkhisamov/Desktop/C# GeekBrains/homework_3/Задача_1/bin/Debug/net6.0/Задача_1.deps.json
+/Users/ilmirkhisamov/Desktop/C# GeekBrains/homework_3/Задача_1/bin/Debug/net6.0/Задача_1.runtimeconfig.json
+/Users/ilmirkhisamov/Desktop/C# GeekBrains/homework_3/Задача_1/bin/Debug/net6.0/Задача_1.dll
+/Users/ilmirkhisamov/Desktop/C# GeekBrains/homework_3/Задача_1/bin/Debug/net6.0/Задача_1.pdb
+/Users/ilmirkhisamov/Desktop/C# GeekBrains/homework_3/Задача_1/obj/Debug/net6.0/Задача_1.csproj.AssemblyReference.cache
+/Users/ilmirkhisamov/Desktop/C# GeekBrains/homework_3/Задача_1/obj/Debug/net6.0/Задача_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilmirkhisamov/Desktop/C# GeekBrains/homework_3/Задача_1/obj/Debug/net6.0/Задача_1.AssemblyInfoInputs.cache
+/Users/ilmirkhisamov/Desktop/C# GeekBrains/homework_3/Задача_1/obj/Debug/net6.0/Задача_1.AssemblyInfo.cs
+/Users/ilmirkhisamov/Desktop/C# GeekBrains/homework_3/Задача_1/obj/Debug/net6.0/Задача_1.csproj.CoreCompileInputs.cache
+/Users/ilmirkhisamov/Desktop/C# GeekBrains/homework_3/Задача_1/obj/Debug/net6.0/Задача_1.dll
+/Users/ilmirkhisamov/Desktop/C# GeekBrains/homework_3/Задача_1/obj/Debug/net6.0/refint/Задача_1.dll
+/Users/ilmirkhisamov/Desktop/C# GeekBrains/homework_3/Задача_1/obj/Debug/net6.0/Задача_1.pdb
+/Users/ilmirkhisamov/Desktop/C# GeekBrains/homework_3/Задача_1/obj/Debug/net6.0/Задача_1.genruntimeconfig.cache
+/Users/ilmirkhisamov/Desktop/C# GeekBrains/homework_3/Задача_1/obj/Debug/net6.0/ref/Задача_1.dll
